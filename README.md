@@ -9,6 +9,10 @@ This project analyzes a sample set of noisy tweets and classifies their sentimen
 - Extraction of sentiment **confidence scores**
 - Visual exploration of results
 
+## 🔗 Project Access
+You can run the full notebook interactively via Google Colab:
+👉 **[Click here to open in Colab](https://colab.research.google.com/drive/1aC1VC9Ope3_bAo6eirRknCWQ1VeDvrs3?usp=sharing)
+
 ## ⚙️ Tools & Libraries
 - Python
 - `pandas`, `re`, `matplotlib`, `seaborn`
